@@ -670,9 +670,9 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr): The HT
 #### Q40. What is the difference between `<input type="submit" value="click me">` and `<button type="submit">Click me</button>`?
 
 - [ ] There is no difference. Both will render a button that submits a form.
-- [x] Both will submit a form. However, the `<button>` can have content other than text, like an image or nested HTML elements, while the `<input>` cannot.
+- [ ] Both will submit a form. However, the `<button>` can have content other than text, like an image or nested HTML elements, while the `<input>` cannot.
 - [ ] `<input type="button">` has been deprecated in HTML5. You should use the `<button>` tag instead.
-- [ ] Both will submit a form. However, the `<input>` can have content other than text, like an image or nested HTML elements, while the `<button>` cannot.
+- [x] Both will submit a form. However, the `<input>` can have content other than text, like an image or nested HTML elements, while the `<button>` cannot.
 
 #### Q41. What is the best semantic way to indicate that text refers to keyboard entry?
 
