@@ -99,12 +99,12 @@
 - [x]
 ```sql
     1 CREATE TABLE IF NOT EXISTS employee (
-    2 employee ID char(10),
+    2 employee_ID char(10),
     3 firstName varchar(50),
     4 lastName varchar(50),
     5 phone varchar(20),
     6 address varchar(50),
-    7 PRIMARY KEY (employeeID)
+    7 PRIMARY KEY (employee_ID)
     8 );
 ```
 
