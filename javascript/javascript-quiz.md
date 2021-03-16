@@ -68,6 +68,7 @@ let modal = document.querySelector('#results');
 setTimeout(function() {
   modal.classList.remove('hidden');
 }, 10000);
+console.log('Results shown');
 ```
 - [x] immediately
 - [ ] after results are received from the HTTP request
